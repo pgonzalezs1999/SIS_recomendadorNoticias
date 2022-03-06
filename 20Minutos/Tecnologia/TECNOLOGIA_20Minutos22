@@ -1,0 +1,42 @@
+Un algoritmo desvela dos pistas para ganar siempre las partidas en Wordle
+############################################ 
+Esteban Moro, investigador de la Universidad Carlos III y profesor del MIT, indica que este algoritmo acierta el 99% de las veces.Trucos y secretos de Wordle, el juego de palabras de moda que tiene revolucionado a todo Twitter.
+############################################ 
+
+Wordle se ha convertido en el juego estrella de estos primeros días del año. Por si no sabes de qué trata, consiste en adivinar palabras y cada día se propone un término nuevo de cinco letras, además, solo tienes seis oportunidades para averiguarla.La mayoría de los usuarios siguen pensando en las mejores palabras para ganar una partida sin agotar todas las ocasiones, o mismamente, sin buscar la solución por Internet.
+
+
+
+
+
+
+
+
+
+
+
+Wordle, el viral juego de los cuadraditos, ya tiene su versión en español
+
+
+
+Esteban Moro, investigador de datos en la Universidad Carlos III de Madrid y profesor en el Instituto Tecnológico de Massachussets (MIT), ha identificado un algoritmo que garantiza el 99% de la victoria en menos de seis oportunidades gracias a un lenguaje de programación de software llamado ‘R’.La siguiente estrategia que se va a mencionar todavía no se puede adaptar al juego en la versión de España, pero si juegas en inglés, puede que te interese. Antes de conocer la pista, Moro creó un juego con las mismas reglas y más de 12.000 palabras de cinco letras en inglés, dando como resultado que el término que debes emplear es ‘aeros’.Cuando introduzcas dicha palabra, las siguientes oportunidades consisten en introducir términos que puedan encajar. Moro descubrió que una de las letras que aparecía más veces que la ‘S’ era la ‘T’, así que, otro término que puedes introducir es ‘orate’ para descubrir el resultado final.I wrote a simple blog post about how to play (and 99% win) Wordle with R https://t.co/stb33cBDDn The simple strategy is to exploit the bias in Wordle answers towards more frequent words in English, combined with a smart choice for the initial guess ("orate"). Enjoy! #RStats— Esteban Moro (@estebanmoro) January 11, 2022 El significado de los colores del tablero
+
+
+
+
+
+
+
+
+
+
+
+Cómo jugar al Wordle, el juego que se ha vuelto viral en redes
+
+
+
+Cuando introduzcas una palabra verás los colores verde, amarillo y gris.Verde: Letra correcta y bien posicionada.Amarillo: Correcta pero no está en la posición correcta.Gris: No se encuentra en la palabraApúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.
+############################################ 
+Juego,Juegosonline,Redesyapps
+############################################ 
+16.01.2022 - 08:00h
